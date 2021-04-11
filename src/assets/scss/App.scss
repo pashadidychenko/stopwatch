@@ -1,0 +1,20 @@
+container {
+  flex: 1;
+  justify-content: "center";
+  align-items: "center";
+  background-color: "#F5FCFF";
+}
+
+counter {
+  font-size: 60;
+  text-align: "center";
+  height: 60;
+  margin: 10;
+}
+
+miniCounter {
+  font-size: 20;
+  position: "relative";
+  top: -32;
+  right: -50;
+}
